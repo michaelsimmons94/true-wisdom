@@ -1,0 +1,33 @@
+.quote{
+    color: #1D5261;
+    background-color: #F5FFC9;
+    border: #5697A3 solid 4px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: large;
+    padding: 10px;
+}
+#footer{
+    text-align: center;
+    color: #F5FFC9;
+    background-color: #1D5261;
+    text-decoration: none;
+    border: #5697A3 solid 1px;
+    border-radius: 5px;
+}
+.row{
+    text-align: center;
+}
+body{
+ background-color: #A11E22;
+}
+#topicSubmit{
+    background-color: #1D5261;
+    border-color: #5697A3;
+    float: right;
+}
+h1{
+    color:#F5FFC9;
+    font-size: 3em;
+    text-align: center;
+}
